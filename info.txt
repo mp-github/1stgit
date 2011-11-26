@@ -9,3 +9,4 @@ Zum Beispiel mit einem neuen Absatz.
 Bei dieser Ã„nderung werde ich commit den add Befehl ausfÃ¼hren lassen.
 Und eine weitere Textzeile.
 verändert unter Windows.
+weitere Änderung unter Windows.
