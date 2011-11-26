@@ -5,3 +5,5 @@ Das ist der erste Text in der erstem Datei.
 Und nachdem ich jetzt eine lokale Datei habe, kann ich sie fröhlich fortschreiben...
 
 Zum Beispiel mit einem neuen Absatz.
+
+Bei dieser Änderung werde ich commit den add Befehl ausführen lassen.
